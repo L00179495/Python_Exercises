@@ -1,3 +1,5 @@
+#merged this file to main branch
+
 #Program demonstrates initialising variable directly and printing the output in console
 
 # initialising variable a value of 5
